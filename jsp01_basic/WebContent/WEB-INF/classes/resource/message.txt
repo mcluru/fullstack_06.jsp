@@ -1,0 +1,7 @@
+TITLE=JSP/Servlet배우기
+GREETING=안녕하세요? 홍길동입니다
+USER=당신의 id는 {0}입니다. 당신의 나이는 {1}입니다
+
+TITLE=JSP/Servlet Learning
+GREETING=Hello? I am honggildong.
+USER=Your id is {0} Your age is {1}
